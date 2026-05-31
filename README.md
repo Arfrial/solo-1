@@ -1,17 +1,13 @@
 # solo1
 
-A new Flutter project.
+Solo 1 Project for CPSC 4150
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Solo 1 is a simple dog and cat clicker; it shows a dog and a cat that you can pet as many times as you want!
 
-A few resources to get you started if this is your first Flutter project:
+## Screen 1
+This screen shows a picture of a cat. It displays the number of times you have petted the cat and a button that allows you to pet the cat. There is also a button to go to screen 2.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen 2
+This screen shows a picture of a dog. It displays the number of times you have petted the dog and a button that allows you to pet the dog. There is also a button to go to screen 1.
